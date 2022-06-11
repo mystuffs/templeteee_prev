@@ -66,6 +66,22 @@ Recently GitHub announced that they'll stop maintaining Atom IDE. Therefore it'l
 They've started their hate speech towards Atom, as it's going to archive. I understood why theu're going to archive it, but it doesn't mean that you're going to give hatespeech.
 
 #### Screenshots
+<p></p>
 > It's okay, that what you prefer to use, but it doesn't mean you can just say someone else "trash".\
 ![img_1](https://i.imgur.com/UotVEI0.png)
 
+> Yet another, the reasons are obvious, that Atom wasn't even in development for over months and GitHub codespace solved it.
+![img_2](https://i.imgur.com/uBOhSFi.png)
+
+> I'd say this person is the most annoyning out there.
+![img_3](https://i.imgur.com/5IC2XCB.png)
+
+> Stupid issues, doesn't make sense at all. If you can't why you're going to bother instead of learning?
+![img_4](https://i.imgur.com/SZna0oI.png)
+
+> Stallman childrens out there
+![img_5](https://i.imgur.com/K6abol6.png)
+
+> "Sue". Stop it, Atom isn't the only IDE in the entire world, even it'll be archive on December 15 so compare today, they've a lot of times in the hand.
+![img_6](https://i.imgur.com/4e7Mh5h.png)
+ 

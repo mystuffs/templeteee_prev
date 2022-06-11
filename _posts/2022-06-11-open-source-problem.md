@@ -85,3 +85,10 @@ They've started their hate speech towards Atom, as it's going to archive. I unde
 > "Sue". Stop it, Atom isn't the only IDE in the entire world, even it'll be archive on December 15 so compare today, they've a lot of times in the hand.
 ![img_6](https://i.imgur.com/4e7Mh5h.png)
  
+
+## Closing words
+
+At the end, after these, I don't have much words to say. It's true that Open Source is great on its own. But the defination currently it have can't be compare with companies. The screenshots that I showed above for this reasom.
+After all, I'd say don't stop doing Open Source, it's the only way to stay as a competitor towards different tech companies. But at the same time respect others too. You're suppose to grow Open Source not fighting. Overall 
+do as you prefer don't do what others say to do. It's your life, your choice.
+ 

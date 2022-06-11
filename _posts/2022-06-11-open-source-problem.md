@@ -82,7 +82,7 @@ They've started their hate speech towards Atom, as it's going to archive. I unde
 > Stallman childrens out there
 ![img_5](https://i.imgur.com/K6abol6.png)
 
-> "Sue". Stop it, Atom isn't the only IDE in the entire world, even it'll be archive on December 15 so compare today, they've a lot of times in the hand.
+> "Sue". Stop it, Atom isn't the only IDE in the entire world, even it'll be archive on December 15 so compare today, they've a lot of time on their hands.
 ![img_6](https://i.imgur.com/4e7Mh5h.png)
  
 

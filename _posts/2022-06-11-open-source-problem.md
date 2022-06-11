@@ -66,5 +66,6 @@ Recently GitHub announced that they'll stop maintaining Atom IDE. Therefore it'l
 They've started their hate speech towards Atom, as it's going to archive. I understood why theu're going to archive it, but it doesn't mean that you're going to give hatespeech.
 
 #### Screenshots
-<center><img src="https://i.imgur.com/UotVEI0.png"></img></center>
+> It's okay, that what you prefer to use, but it doesn't mean you can just say someone else "trash".\
+![img_1](https://i.imgur.com/UotVEI0.png)
 
